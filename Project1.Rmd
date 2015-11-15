@@ -1,6 +1,8 @@
 ---
 title: "Reproducible Research, Project 1"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 date: "November 11, 2015"
 ---
 
